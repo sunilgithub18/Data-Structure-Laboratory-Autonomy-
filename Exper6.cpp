@@ -6,8 +6,8 @@ Order once placed cannot be cancelled.
 Write C++ program to simulate the system using 
 circular queue using array.
 
-INPUT: 
-OUTPUT:
+INPUT: Customer Order ID, Pizaa Quantity
+OUTPUT: List of Customer Orders arrannged as circular queue
 
 Author: Sunil Rathod
 Date: 29.08.2025
@@ -158,4 +158,5 @@ int main(){
 		}
 	}
 	return 0;
+
 }
